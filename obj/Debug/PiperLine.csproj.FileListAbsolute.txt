@@ -1,0 +1,10 @@
+C:\Users\Tomi\source\repos\PiperLine\PiperLine\bin\Debug\PiperLine.exe.config
+C:\Users\Tomi\source\repos\PiperLine\PiperLine\bin\Debug\PiperLine.exe
+C:\Users\Tomi\source\repos\PiperLine\PiperLine\bin\Debug\PiperLine.pdb
+C:\Users\Tomi\source\repos\PiperLine\PiperLine\obj\Debug\PiperLine.Properties.Resources.resources
+C:\Users\Tomi\source\repos\PiperLine\PiperLine\obj\Debug\PiperLine.csproj.GenerateResource.cache
+C:\Users\Tomi\source\repos\PiperLine\PiperLine\obj\Debug\PiperLine.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\source\repos\PiperLine\PiperLine\obj\Debug\PiperLine.exe
+C:\Users\Tomi\source\repos\PiperLine\PiperLine\obj\Debug\PiperLine.pdb
+C:\Users\Tomi\source\repos\PiperLine\PiperLine\obj\Debug\PiperLine.PiperLine.resources
+C:\Users\Tomi\source\repos\PiperLine\PiperLine\obj\Debug\PiperLine.csprojAssemblyReference.cache
